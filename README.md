@@ -3,4 +3,4 @@
 🔧 **Stack:** Bash, Python, Go, JavaScript/TypeScript, Rust  
 🤖 **AI & ML:** Model integration, inference pipelines, prompt‑engineering  
 🛠️ **Billing & DevOps:** Custom billing panel for Pterodactyl, Docker/Kubernetes, CI/CD pipelines  
-💻 **OS:** Windows 11 + ZedEditor
+💻 **OS:** Arch Linux
