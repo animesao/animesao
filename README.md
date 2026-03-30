@@ -1,6 +1,5 @@
-**🧑‍💻 Linux‑enthusiast | Multilingual dev | AI‑curator | Billing‑engineer for Pterodactyl**  
+**🧑‍💻 Linux‑enthusiast | Multilingual dev | AI‑curator |**  
 
-🔧 **Stack:** Bash, Python, Go, JavaScript/TypeScript, Rust  
-🤖 **AI & ML:** Model integration, inference pipelines, prompt‑engineering  
-🛠️ **Billing & DevOps:** Custom billing panel for Pterodactyl, Docker/Kubernetes, CI/CD pipelines  
+🔧 **Stack:** Bash, Python,  
+🤖 **AI & ML:** Model integration, inference pipelines, prompt‑engineering
 💻 **OS:** Arch Linux
