@@ -6,5 +6,6 @@
 
 💻 **OS:** Arch Linux
 
+🛜**Site** https://kuranix.github.io
 
 0x051B5fB201e7bB10BfbC3c34184B650bc9196E4c - Ethereum
