@@ -6,6 +6,6 @@
 
 💻 **OS:** Arch Linux
 
-🛜**Site** https://animesao.github.io
+🛜**Site** [animesao](https://animesao.work.gd/)
 
 0x051B5fB201e7bB10BfbC3c34184B650bc9196E4c - Ethereum
