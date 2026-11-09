@@ -48,7 +48,7 @@
   <circle cx="52" cy="16" r="4.5" fill="#333333" />
 
   <!-- Terminal Title -->
-  <text x="425" y="20" text-anchor="middle" class="mono text-dim">animesao@runtime-node: ~ / workspace / cardinal-ecosystem</text>
+  <text x="425" y="20" text-anchor="middle" class="mono text-dim">animesao@dev-environment: ~ / software-engineering-portfolio</text>
 
   <!-- Status Indicator -->
   <circle cx="810" cy="16" r="4" fill="#22C55E" class="pulse" />
@@ -65,28 +65,28 @@
   <!-- Identity Info -->
   <g transform="translate(132, 64)">
     <text x="0" y="22" class="mono text-title" font-size="24">ANIMESAO</text>
-    <text x="145" y="22" class="mono text-tag" fill="#737373">:: [SYSTEMS &amp; TOOLING ARCHITECT]</text>
+    <text x="145" y="22" class="mono text-tag" fill="#737373">:: [SOFTWARE DEVELOPER &amp; BUILDER]</text>
     
-    <text x="0" y="48" class="mono text-sub">Building lightweight daemonless container runtimes, kernel tools &amp; developer ecosystems.</text>
-    <text x="0" y="68" class="mono text-sub" fill="#737373">Engineering driven by precision, minimal abstractions &amp; AI-assisted workflows.</text>
+    <text x="0" y="48" class="mono text-sub">Building Infrastructure, Backend Systems, Web Apps, Game Runtimes &amp; Dev Tools.</text>
+    <text x="0" y="68" class="mono text-sub" fill="#737373">Creating end-to-end software products with modern stacks &amp; AI-assisted engineering.</text>
   </g>
 
   <!-- Bottom HUD Metric Pills -->
   <g transform="translate(36, 156)">
     <!-- Pill 1: Core Project -->
-    <rect x="0" y="0" width="220" height="26" rx="4" fill="#141414" stroke="#262626" stroke-width="1" />
-    <text x="12" y="17" class="mono text-tag">FLAGSHIP: <tspan fill="#FFFFFF">Cardinal Runtime v2.4</tspan></text>
+    <rect x="0" y="0" width="200" height="26" rx="4" fill="#141414" stroke="#262626" stroke-width="1" />
+    <text x="10" y="17" class="mono text-tag">FLAGSHIP: <tspan fill="#FFFFFF">Cardinal Ecosystem</tspan></text>
 
     <!-- Pill 2: Primary Stack -->
-    <rect x="232" y="0" width="240" height="26" rx="4" fill="#141414" stroke="#262626" stroke-width="1" />
-    <text x="244" y="17" class="mono text-tag">STACK: <tspan fill="#FFFFFF">Go • Rust/eBPF • Linux • Nuxt</tspan></text>
+    <rect x="212" y="0" width="240" height="26" rx="4" fill="#141414" stroke="#262626" stroke-width="1" />
+    <text x="10" y="17" transform="translate(212,0)" class="mono text-tag">STACK: <tspan fill="#FFFFFF">Go • Java • Python • Nuxt • Rust</tspan></text>
 
-    <!-- Pill 3: Methodology -->
-    <rect x="484" y="0" width="180" height="26" rx="4" fill="#141414" stroke="#262626" stroke-width="1" />
-    <text x="496" y="17" class="mono text-tag">METHOD: <tspan fill="#FFFFFF">AI-Assisted Eng</tspan></text>
+    <!-- Pill 3: Focus -->
+    <rect x="464" y="0" width="210" height="26" rx="4" fill="#141414" stroke="#262626" stroke-width="1" />
+    <text x="10" y="17" transform="translate(464,0)" class="mono text-tag">FOCUS: <tspan fill="#FFFFFF">Systems • Web • Game Dev</tspan></text>
 
-    <!-- Pill 4: Environment -->
-    <rect x="676" y="0" width="138" height="26" rx="4" fill="#141414" stroke="#262626" stroke-width="1" />
-    <text x="688" y="17" class="mono text-tag">HOST: <tspan fill="#FFFFFF">Arch Linux</tspan></text>
+    <!-- Pill 4: Workflow -->
+    <rect x="686" y="0" width="128" height="26" rx="4" fill="#141414" stroke="#262626" stroke-width="1" />
+    <text x="10" y="17" transform="translate(686,0)" class="mono text-tag">AI-ASSISTED</text>
   </g>
 </svg>
